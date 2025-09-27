@@ -2,19 +2,18 @@
 title: "PLATEAU Workshop"
 description: "Bringing together Programming Languages and Human-Computer Interaction"
 url: "https://schasins.com/plateau/" # the base hostname & protocol for your site, e.g. http://example.com
-year: 2024
+year: 2026
 # colocated_url: "https://2020.splashcon.org/"
 # colocated_logo: "./assets/images/splash2020.png"
 # colocated_title: "SPLASH2020"
 logo_height: "30px"
-nth_plateau: "14th"
-location: "@ University of California, Berkeley, CA USA"
+location: "@ Carnegie Mellon University, Pittsburgh, PA USA"
 #sublocation: "TBD"
-workshop_date: "February 19-20, 2024"
-submission_date: "Wednesday, December 6th, 2023"
-notification_date: "Wednesday, December 13th, 2023"
+workshop_date: "Early March, exact dates TBA!"
+submission_date: "Wednesday, December 3rd, 2025"
+#notification_date: "Wednesday, December 13th, 2023"
 #backup_submission_date: ""
-submission_site: "https://easychair.org/conferences/?conf=plateau2024"
+#submission_site: "https://easychair.org/conferences/?conf=plateau2026"
 #registration_site: "https://forms.gle/U6zCxWZ2dvUkY7tX6"
 mailing_list_link: "https://groups.google.com/g/plateau-announcements"
 #proceedings_site: "TBD"
@@ -23,68 +22,18 @@ mailing_list_link: "https://groups.google.com/g/plateau-announcements"
 organizers:
   - name: Sarah E. Chasins
     affiliation: University of California, Berkeley
-  - name: Elena Glassman
-    affiliation: Harvard University
   - name: Joshua Sunshine
     affiliation: Carnegie Mellon University
 
 student_organizers:
-  - name: Shraddha Barke
-    affiliation: University of California - San Diego
-  - name: Matthew Davis
-    affiliation: Carnegie Mellon University
-  - name: Sam Estep
-    affiliation: Carnegie Mellon University
-  - name: Kasra Ferdowsi
-    affiliation: University of California - San Diego
-  - name: Michael James
-    affiliation: University of California - San Diego
-  - name: Jenny Liang
-    affiliation: Carnegie Mellon University
   - name: Justin Lubin
     affiliation: University of California - Berkeley
   - name: Ian McCormack
     affiliation: Carnegie Mellon University
-  - name: Chelse Swoopes
-    affiliation: Harvard University
-  - name: Priyan Vaithilingam
-    affiliation: Harvard University
+  - name: Eric Rawn
+    affiliation: University of California - Berkeley
 
 mentors:
-  - name: Jonathan Aldrich
-    affiliation: Carnegie Mellon University
-  - name: Titus Barik
-    affiliation: Apple
-  - name: Alan Blackwell
-    affiliation: University of Cambridge
-  - name: Michael Coblenz
-    affiliation: University of California - San Diego
-  - name: Will Crichton
-    affiliation: Brown University
-  - name: Mark Guzdial
-    affiliation: University of Michigan
-  - name: Austin Henley
-    affiliation: Microsoft
-  - name: Felienne Hermans
-    affiliation: Leiden University
-  - name: Eunice Jun
-    affiliation: University of Washington
-  - name: Thomas LaToza
-    affiliation: George Mason University
-  - name: Toby Li
-    affiliation: University of Notre Dame
-  - name: Brad Myers
-    affiliation: Carnegie Mellon University
-  - name: Steve Oney
-    affiliation: University of Michigan
-  - name: Hila Peleg
-    affiliation: Technion
-  - name: Clément Pit-Claudel
-    affiliation: EPFL
-  - name: Mark Santolucito
-    affiliation: Barnard College
-  - name: Gustavo Soares
-    affiliation: Microsoft
 
 # build settings
 exclude: ["readme.md"]
@@ -100,12 +49,12 @@ navbar_links:
   - title: "Home"
     url: "/"
     newtab: false
-  - title: "Registration"
-    url: "/registration"
-    newtab: false
-  - title: "Program"
-    url: "/program"
-    newtab: false
+  # - title: "Registration"
+  #   url: "/registration"
+  #   newtab: false
+  # - title: "Program"
+  #   url: "/program"
+  #   newtab: false
   - title: "Prior Year Sites"
     url: "/prior-year-sites"
     newtab: false
