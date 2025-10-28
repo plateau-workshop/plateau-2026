@@ -34,6 +34,22 @@ student_organizers:
     affiliation: University of California - Berkeley
 
 mentors:
+  - name: Titus Barik
+  affiliation: Apple
+  - name: Alan Blackwell
+  affiliation: University of Cambridge
+  - name: Harry Goldstein
+  affiliation: University of Buffalo
+  - name: Shriram Krishnamurthi
+  affiliation: Brown University
+  - name: Toby Li
+  affiliation: Notre Dame
+  - name: Steve Oney
+  affiliation: University of Michigan
+  - name: Nadia Polikarpova
+  affiliation: UC San Diego
+  - name: Mark Santolucito
+  affiliation: Barnard
 
 # build settings
 exclude: ["readme.md"]
