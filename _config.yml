@@ -38,18 +38,36 @@ mentors:
     affiliation: Apple
   - name: Alan Blackwell
     affiliation: University of Cambridge
+  - name: Michael Coblenz
+    affiliation: UC San Diego
   - name: Harry Goldstein
     affiliation: University of Buffalo
+  - name: Andy Gordon
+    affiliation: Cogna
+  - name: Mark Guzdial
+    affiliation: University of Michigan
+  - name: Andrew Head
+    affiliation: University of Pennsylvania
   - name: Shriram Krishnamurthi
     affiliation: Brown University
+  - name: Thomas D Latoza
+    affiliation: George Mason University
   - name: Toby Li
     affiliation: Notre Dame
+  - name: Wode "Nimo" Ni
+    affiliation: Brilliant
   - name: Steve Oney
     affiliation: University of Michigan
+  - name: Hila Peleg
+    affiliation: Technion
   - name: Nadia Polikarpova
     affiliation: UC San Diego
   - name: Mark Santolucito
-    affiliation: Barnard
+    affiliation: Barnard College
+  - name: April Wang
+    affiliation: ETH Zürich
+  - name: J.D. Zamfirescu-Pereira
+    affiliation: UCLA
 
 # build settings
 exclude: ["readme.md"]
