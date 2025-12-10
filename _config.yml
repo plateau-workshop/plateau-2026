@@ -27,19 +27,21 @@ organizers:
 
 student_organizers:
   - name: Justin Lubin
-    affiliation: University of California - Berkeley
+    affiliation: University of California, Berkeley
   - name: Yiliang "Leo" Liang
     affiliation: Carnegie Mellon University
   - name: Eric Rawn
-    affiliation: University of California - Berkeley
+    affiliation: University of California, Berkeley
 
 mentors:
   - name: Titus Barik
     affiliation: Apple
   - name: Alan Blackwell
     affiliation: University of Cambridge
+  - name: Will Chrichton
+    affiliation: Brown University
   - name: Michael Coblenz
-    affiliation: UC San Diego
+    affiliation: University of California, San Diego
   - name: Harry Goldstein
     affiliation: University of Buffalo
   - name: Andy Gordon
@@ -50,10 +52,14 @@ mentors:
     affiliation: University of Pennsylvania
   - name: Shriram Krishnamurthi
     affiliation: Brown University
-  - name: Thomas D Latoza
+  - name: Thomas D. LaToza
     affiliation: George Mason University
   - name: Toby Li
     affiliation: Notre Dame
+  - name: Brad Myers
+    affiliation: Carnegie Mellon University
+  - name: Tim Nelson
+    affiliation: Brown University
   - name: Wode "Nimo" Ni
     affiliation: Brilliant
   - name: Steve Oney
@@ -61,13 +67,15 @@ mentors:
   - name: Hila Peleg
     affiliation: Technion
   - name: Nadia Polikarpova
-    affiliation: UC San Diego
+    affiliation: University of California, San Diego
+  - name: Joe Gibbs Politz
+    affiliation: University of California, San Diego
   - name: Mark Santolucito
     affiliation: Barnard College
   - name: April Wang
     affiliation: ETH Zürich
   - name: J.D. Zamfirescu-Pereira
-    affiliation: UCLA
+    affiliation: University of California, Los Angeles
 
 # build settings
 exclude: ["readme.md"]
