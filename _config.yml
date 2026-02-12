@@ -91,9 +91,9 @@ navbar_links:
   - title: "Home"
     url: "/"
     newtab: false
-  # - title: "Registration"
-  #   url: "/registration"
-  #   newtab: false
+  - title: "Registration"
+    url: "/registration"
+    newtab: false
   # - title: "Program"
   #   url: "/program"
   #   newtab: false
