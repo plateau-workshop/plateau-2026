@@ -94,9 +94,9 @@ navbar_links:
   - title: "Registration"
     url: "/registration"
     newtab: false
-  # - title: "Program"
-  #   url: "/program"
-  #   newtab: false
+  - title: "Program"
+    url: "/program"
+    newtab: false
   - title: "Prior Year Sites"
     url: "/prior-year-sites"
     newtab: false
